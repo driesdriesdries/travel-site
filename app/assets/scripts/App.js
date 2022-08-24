@@ -1,1 +1,1 @@
-alert('fire!');
+import '../styles/styles.css';
